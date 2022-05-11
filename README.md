@@ -23,6 +23,8 @@ The game utilises the JavaFX framework to display the game and user interface. A
 
 * [Kotlin language](https://kotlinlang.org/)
 * [JavaFX framework](https://openjfx.io/)
+* [BFXR sound creator](https://www.bfxr.net/)
+* [BeepBox music creator](https://www.beepbox.co/)
 
 ## :package: Download
 
